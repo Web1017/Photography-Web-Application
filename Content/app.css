@@ -7,7 +7,7 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
-    background: #eee;
+    background: #fff;
     height: auto;
 }
 
@@ -271,17 +271,17 @@ ul.socialIcons {
     list-style: none;
     display: inline-block;
     margin: 15px;
-    border-radius: 2em;
+    border-radius: 2rem;
     overflow: hidden;
 }
 
 .socialIcons li a {
     display: block;
-    padding: .5em;
+    padding: .5rem;
     max-width: 1.2em;
-    height: 2em;
+    height: 2rem;
     white-space: nowrap;
-    line-height: 2em;
+    line-height: 2rem;
     transition: .5s;
     text-decoration: none;
     font-family: arial;
@@ -289,12 +289,12 @@ ul.socialIcons {
 }
 
 .socialIcons li i {
-    margin-right: .8em;
+    margin-right: .8rem;
 }
 
 .socialIcons li:hover a {
     max-width: 200px;
-    padding-right: 1em;
+    padding-right: 1rem;
 }
 
 .socialIcons .facebook {
@@ -312,7 +312,7 @@ ul.socialIcons {
     box-shadow: 0 0 16px #cd486b;
 }
 
-.socialIcons .pinterest {
+.socialIcons .youtube {
     background: #c92228;
     box-shadow: 0 0 16px #c92228;
 }
